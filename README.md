@@ -1,6 +1,6 @@
 # iyf-s11-week-03-kaywambui-1
 # Christine Kamau 
-# Week 03 Project
+## Week 03 Project
 
 This repository contains my Week 03 portfolio project, built as part of my web development learning journey. This week focused on improving my command line skills, learning Git and GitHub workflows, and organizing a professional multi-page portfolio project.
 
