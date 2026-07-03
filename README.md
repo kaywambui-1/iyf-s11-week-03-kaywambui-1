@@ -8,6 +8,10 @@ This repository contains my Week 03 portfolio project, built as part of my web d
 
 [View Live Site](https://kaywambui-1.github.io/iyf-s10-week-03-kaywambui-1)
 
+## project screenshot
+
+![Project Screenshot](c:\Users\PC\Pictures\Screenshots\Screenshot 2026-07-03 161349.png)
+
 
 ## Features
 
